@@ -13,3 +13,4 @@ The output is a file named "renamed_output.fast(a|q)" in the same directory as t
 - User defined start and stop codons
 - Filter by minimum length threshold
 - Handling lower case letters
+- Output to file in any directory
